@@ -1,0 +1,27 @@
+                            Hockey Teams: Forms, Searching and Pagination                            
+
+Boston Bruins had 44 wins and 24 losses.
+Buffalo Sabres had 31 wins and 30 losses.
+Calgary Flames had 46 wins and 26 losses.
+Chicago Blackhawks had 49 wins and 23 losses.
+Detroit Red Wings had 34 wins and 38 losses.
+Edmonton Oilers had 37 wins and 37 losses.
+Hartford Whalers had 31 wins and 38 losses.
+Los Angeles Kings had 46 wins and 24 losses.
+Minnesota North Stars had 27 wins and 39 losses.
+Montreal Canadiens had 39 wins and 30 losses.
+New Jersey Devils had 32 wins and 33 losses.
+New York Islanders had 25 wins and 45 losses.
+New York Rangers had 36 wins and 31 losses.
+Philadelphia Flyers had 33 wins and 37 losses.
+Pittsburgh Penguins had 41 wins and 33 losses.
+Quebec Nordiques had 16 wins and 50 losses.
+St. Louis Blues had 47 wins and 22 losses.
+Toronto Maple Leafs had 23 wins and 46 losses.
+Vancouver Canucks had 28 wins and 43 losses.
+Washington Capitals had 37 wins and 36 losses.
+Winnipeg Jets had 26 wins and 43 losses.
+
+
+In this year Chicago Blackhawks has won the most number of games with a total of 49 wins and 
+St. Louis Blues suffered the most losses in the year with 22 matches lost.
